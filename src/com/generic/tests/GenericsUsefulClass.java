@@ -1,4 +1,4 @@
-package com.generic;
+package com.generic.tests;
 
 public class GenericsUsefulClass<G> {
 

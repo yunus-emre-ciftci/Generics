@@ -1,5 +1,7 @@
 package com.generic;
 
+import com.generic.tests.GenericsUsefulClass;
+
 public class Generics {
     public static void main(String[] args) {
 
